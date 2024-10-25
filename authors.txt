@@ -5,4 +5,5 @@ Henry Kantrow
 Mathieu Desmarais
 Meghan McNeil
 Emmanuel Bourret
+Vincent Lemelin
 Étienne Tremblay
