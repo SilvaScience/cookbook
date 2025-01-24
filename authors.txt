@@ -8,4 +8,5 @@ Alejandro León Grande
 Emmanuel Bourret
 Vincent Lemelin
 Étienne Tremblay
+Simon Paiva
 
