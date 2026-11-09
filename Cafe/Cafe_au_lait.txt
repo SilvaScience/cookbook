@@ -1,0 +1,18 @@
+Ingredients:
+Coffee machine
+Coffee
+Milk 2%
+sugar
+mug
+water
+
+Preparation:
+
+turn on the coffee machine
+insert coffee in it
+insert water in the coffee machine
+Place your mug at the output of the coffee machine
+Pour your milk
+
+drink it
+
